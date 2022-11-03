@@ -1,2 +1,3 @@
 # landPages-Challange7-Binar
-only take with npm start
+1. npm install
+2. npm start
