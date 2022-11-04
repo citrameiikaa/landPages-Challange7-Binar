@@ -8,7 +8,7 @@ const Jumbotron = () => {
         <div className="row mb-5 mt-5">
           <div className="col-md m-auto">
             <h1 className="text-justify">
-              Sewa & Rental Mobil Terbaik di Kawasan (Lokasimu)
+              Sewa & Rental Mobil Terbaik di Kawasan Palembang
             </h1>
             <p>
               Selamat datang di Binar Car Rental. Kami menyediakan mobil
