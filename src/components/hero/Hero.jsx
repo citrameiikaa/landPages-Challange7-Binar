@@ -9,7 +9,7 @@ const Hero = ({ showbtn }) => {
         <div className="col-lg-1 col-0 ps-0 ms-0" />
         <div className="col-lg-5 col-sm-12 hero-desc">
           <h1 className="fs-1">
-            Sewa &amp; Rental Mobil Terbaik di kawasan Surabaya
+            Sewa &amp; Rental Mobil Terbaik di kawasan Palembang
           </h1>
           <p>
             Selamat datang di Binar Car Rental. Kami menyediakan mobil kualitas
