@@ -10,10 +10,10 @@ const Services = () => {
         </div>
         <div className="col-lg-6 services-right mt-5">
           <h2 className="fw-bold">
-            Best Car Rental for any kind of trip in (Lokasimu)!
+            Best Car Rental for any kind of trip in Palembang!
           </h2>
           <p className>
-            Sewa mobil di (Lokasimu) bersama Binar Car Rental jaminan harga
+            Sewa mobil di Palembang bersama Binar Car Rental jaminan harga
             lebih murah dibandingkan yang lain, kondisi mobil baru, serta
             kualitas pelayanan terbaik untuk perjalanan wisata, bisnis, wedding,
             meeting, dll.
